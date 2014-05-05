@@ -1,0 +1,26 @@
+{
+  "name": "backbone.ditto",
+  "version": "0.0.0",
+  "description": "A simple abstraction layer over Backbone Models and Collections",
+  "main": "lib/backbone.ditto.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://Syynth@github.com/brainbytes/backbone.ditto.git"
+  },
+  "author": "Ben Cochrane <ben.cochrane2112@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brainbytes/backbone.ditto/issues"
+  },
+  "homepage": "https://github.com/brainbytes/backbone.ditto",
+  "devDependencies": {
+    "coffee-script": "^1.7.1",
+    "gulp": "^3.6.2",
+    "gulp-cached": "0.0.3",
+    "gulp-iced": "0.0.2",
+    "iced-coffee-script": "^1.7.1-b"
+  }
+}

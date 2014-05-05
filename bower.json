@@ -1,0 +1,21 @@
+{
+  "name": "backbone.ditto",
+  "version": "0.0.0",
+  "homepage": "https://github.com/brainbytes/backbone.ditto",
+  "authors": [
+    "Ben Cochrane <ben.cochrane2112@gmail.com>"
+  ],
+  "description": "A simple abstraction layer over Backbone Models and Collections",
+  "main": "lib/backbone.ditto.js",
+  "keywords": [
+    "backbone"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
