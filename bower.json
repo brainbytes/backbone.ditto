@@ -1,6 +1,6 @@
 {
   "name": "backbone.ditto",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "homepage": "https://github.com/brainbytes/backbone.ditto",
   "authors": [
     "Ben Cochrane <ben.cochrane2112@gmail.com>"
@@ -10,6 +10,9 @@
   "keywords": [
     "backbone"
   ],
+  "dependencies": {
+    "backbone": "~1.1.0"
+  },
   "license": "MIT",
   "ignore": [
     "**/.*",
